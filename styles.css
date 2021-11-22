@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+#mensagem {
+    color: black;
+    background-color: rgb(223, 220, 77);
+    width: 200px;
+    height: auto;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+}
